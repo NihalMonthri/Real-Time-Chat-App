@@ -62,6 +62,5 @@ Go to: [http://localhost:3000](http://localhost:3000)
 ---
 
 ## 🌍 Deployment
-- **Frontend:** Deployed on Vercel → [Live Demo Link](https://your-vercel-link.vercel.app)  
-- **Backend:** Deploy using Render/Heroku/AWS/any Node hosting service  
+ -Deployed on Vercel → [Live Demo Link](https://your-vercel-link.vercel.app)  
 
