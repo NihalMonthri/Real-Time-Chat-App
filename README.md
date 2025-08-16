@@ -12,8 +12,7 @@ The project demonstrates **full-stack development, real-time WebSocket communica
 - 🗂️ Multiple chat rooms support  
 - 🕒 Persistent chat history stored in **MongoDB**  
 - 🗑️ Send & delete messages  
-- 📱 Responsive React frontend (dynamic live updates)  
-- ☁️ Deployment-ready (Frontend hosted on **Vercel**)  
+- 📱 Responsive React frontend (dynamic live updates)   
 
 ---
 
@@ -21,7 +20,6 @@ The project demonstrates **full-stack development, real-time WebSocket communica
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Socket.io-client  
 **Backend:** Node.js, Express, Socket.io  
 **Database:** MongoDB + Mongoose  
-**Hosting:** Vercel (Frontend), Any Node server (Backend)  
 
 ---
 ## ⚡ Installation & Setup
@@ -61,6 +59,4 @@ Go to: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🌍 Deployment
- -Deployed on Vercel → [Live Demo Link](https://your-vercel-link.vercel.app)  
 
